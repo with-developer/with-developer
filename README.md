@@ -1,4 +1,13 @@
-### Hi there 👋
+### 안녕하세요, 성장하는 사이버보안 전문가 이준형입니다. (작성중)
+- 자신 있는 분야: 모의해킹(Web분야), 풀스택 개발(Web, Mobile)
+- 하고 싶은 분야: 모의해킹(Web, Mobile 분야) 
+
+- 할 줄 아는 언어:
+C, HTML, CSS, Javascript, Python, PHP, Java, C#, Arduino
+- 할 줄 아는 프레임워크
+Django, Flask, NodeJs, Flutter
+- 할 줄 아는 시스템?
+MySQL, Apache, Nginx, Docker, ELK
 
 내 활동들 (정리중)
 1. Dreamhack 2022.10.29 기준 랭크: 69/28223
@@ -20,11 +29,25 @@ https://dreamhack.io/users/20691
 15. 2022년 중부발전을 뚫어봐! 버그바운티: 대상
 16. 2022년 한국과학기술정보연구원: 특별상
 17. 2022년 건양대학교 정보보호 영재교육원 멘토 활동
+18. 2022년 건양대학교 사이버보안학과 학생회
+19. 2022년 취약점 진단 결과 중앙 집중화 데이터베이스 및 웹 페이지 개발중
 ETC (더 있는데, 정리중입니다.)
 
 취업하고싶은곳:
 1. 카카오엔터프라이즈
-2. 
+2. TOSS
+3. 라온화이트햇
+4. 더 적는중
+
+성적:
+1학년 1학기: 3.25
+1학년 2학기: 3.63
+2학년 1학기: 3.97
+2학년 2학기: 4.33
+3학년 1학기: 4.39
+3학년 2학기: 재학중
+
+
 
 <!--
 **with-developer/with-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
