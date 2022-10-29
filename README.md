@@ -9,7 +9,7 @@ Django, Flask, NodeJs, Flutter
 - 할 줄 아는 시스템?<br>
 MySQL, Apache, Nginx, Docker, ELK
 <br>
-내 활동들 (정리중)
+내 활동들 (정리중)<br>
 1. Dreamhack 2022.10.29 기준 랭크: 69/28223<br>
 https://dreamhack.io/users/20691
 
