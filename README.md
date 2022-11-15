@@ -50,7 +50,11 @@ ETC (더 있는데, 정리중입니다.)
 3학년 1학기: 4.39<br>
 3학년 2학기: 재학중<br>
 
-
+가고싶은 기업
+1. 카카오 엔터프라이즈
+2. 네이버
+3. 스틸리언
+4. 라온 화이트햇
 
 <!--
 **with-developer/with-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
