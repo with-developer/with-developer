@@ -1,13 +1,13 @@
-### 안녕하세요, 성장하는 사이버보안 전문가 이준형입니다. (작성중)
+### 안녕하세요, 성장하는 사이버보안 전문가 이준형입니다. (작성중입니다.)
 - 자신 있는 분야: 모의해킹(Web분야), 풀스택 개발(Web, Mobile)
-- 하고 싶은 분야: 모의해킹(Web, Mobile 분야) 
+- 하고 싶은 분야: 모의해킹·취약점진단(Web, Mobile 분야) 
 
 - 할 줄 아는 언어:<br>
 C, HTML, CSS, Javascript, Python, PHP, Java, C#, Arduino
 - 할 줄 아는 프레임워크<br>
 Django, Flask, NodeJs, Flutter
 - 할 줄 아는 시스템?<br>
-MySQL, Apache, Nginx, Docker, ELK
+MySQL, Apache, Nginx, Docker, ELK Stack, Cloud
 <br>
 내 활동들 (정리중)<br>
 1. Dreamhack 2022.10.29 기준 랭크: 69/28223<br>
@@ -48,7 +48,7 @@ ETC (더 있는데, 정리중입니다.)
 2학년 1학기: 3.97<br>
 2학년 2학기: 4.33<br>
 3학년 1학기: 4.39<br>
-3학년 2학기: 재학중<br>
+3학년 2학기: 4.5예상?<br>
 
 가고싶은 기업
 1. 카카오 엔터프라이즈
