@@ -1,16 +1,26 @@
-### 안녕하세요, 성장하는 사이버보안 전문가 이준형입니다. (작성중입니다.)
-- 자신 있는 분야: 모의해킹(Web분야), 풀스택 개발(Web, Mobile)
-- 하고 싶은 분야: 모의해킹·취약점진단(Web, Mobile 분야) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=With+Developer&fontSize=90" />
 
-- 할 줄 아는 언어:<br>
-C, HTML, CSS, Javascript, Python, PHP, Java, C#, Arduino
+# 안녕하세요, 성장하는 사이버보안 전문가 이준형입니다.<br>
+
+
+- 자신 있는 분야<br>
+모의해킹(Web분야), 풀스택 개발(Web, Mobile)
+- 하고 싶은 분야<br>
+모의해킹·취약점진단(Web, Mobile 분야) 
+
+Languages & framework
+
+- 할 줄 아는 언어<br>
+C, HTML, CSS, Javascript, Python, PHP, Java, C#, Arduino, ETC..
 - 할 줄 아는 프레임워크<br>
 Django, Flask, NodeJs, Flutter
 - 할 줄 아는 시스템?<br>
-MySQL, Apache, Nginx, Docker, ELK Stack, Cloud
+MySQL, Apache, Nginx, Docker, ELK Stack, Cloud, ETC..
 <br>
-내 활동들 (정리중)<br>
-1. Dreamhack 2022.10.29 기준 랭크: 69/28223<br>
+
+My Activity<br>
+-------------
+1. Dreamhack 2022.11.08 기준 랭크: 59/28223<br>
 https://dreamhack.io/users/20691
 
 2. 2018년 건양대학교 사이어보안학과 학술제: 금상
@@ -38,20 +48,17 @@ https://dreamhack.io/users/20691
 25. 2022년 ISO 27001 로이드인증원 인증심사원 과정 수료 및 자격 보유
 26. 정보통신산업진흥원 AI데이터분석 과정 수료
 27. 정보통신산업진흥원_SW코딩훈련 과정 수료 <br>
-ETC (더 있는데, 정리중입니다.)
-<br><br>
-23년 현재 정보보안기사 공부중입니다.
+28. ETC (더 있는데, 정리중입니다.)
+<br>
+23년 현재 정보보안기사 공부중입니다.<br>
 -> 2023년 3월11일 필기 합격, 실기 준비중
 
+대학 성적<br>
+-------------
+|1학년 1학기|1학년 2학기|2학년 1학기|2학년 2학기|3학년 1학기|3학년 2학기|4학년 1학기|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|3.25/4.5|3.63/4.5|3.97/4.5|4.33/4.5|4.39/4.5|4.5/4.5|재학 중
 
-
-성적:
-1학년 1학기: 3.25<br>
-1학년 2학기: 3.63<br>
-2학년 1학기: 3.97<br>
-2학년 2학기: 4.33<br>
-3학년 1학기: 4.39<br>
-3학년 2학기: 4.5<br>
 
 가고싶은 기업
 1. 카카오 엔터프라이즈
