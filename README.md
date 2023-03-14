@@ -9,15 +9,23 @@
 단순히 취업에 성공하기 위한 거짓말일 확률이 매우 높기 때문입니다.  
  it is usually not believed because there is a high probability of it being a lie just to succeed in getting a job.<p>
 그럼에도 불구하고, 제 취미는 "개발"입니다.  
- However, my hobby is "development" <p>
+ However, my hobby is "development". <p>
 세상에 없던 무언가를 가치있게 창조해내는 과정이 즐겁기 때문입니다.  
  which I genuinely enjoy because I find the process of creating something valuable that has never existed before to be enjoyable.<p>
-웹 및 서버 개발 활동을 많이 수행해 본 경험을 바탕으로, 웹 해킹 및 취약점 진단에.... 작성중...
+웹 및 서버 개발 활동을 많이 수행해 본 경험을 바탕으로, 웹 해킹 및 취약점 진단에 복합적인 결과 도출을 이끌어 낼 수 있습니다.  
+  Based on my experience performing web and server development activities, I am able to produce comprehensive results in web hacking and vulnerability diagnosis. <p>
+  예를 들어 Flask SSTI 취약점이 발견되었을 때 대응 방안에 대해 설명하겠습니다.  
+   For example, if a Flask SSTI vulnerability is detected, I can explain the response measures as follows:<p>
+  1. Sanitization: 코드에 존재하는 render_template() 함수의 수정을 통해 코드의 안전성 검사를 수행합니다.  
+A security check of the code can be performed by modifying the render_template() function in the code.<p>
+  2. Input Validation: 사용자 입력값에 대해 검증을 수행하는 코드를 추가해야합니다.  
+           Additional code must be added to validate user input.<p>
+  3. Server File Configuration: Flask 서비스를 실행하는 User의 권한을 관리하거나 실행할 수 있는 명령어를 제한하여, SSTI뿐만 아니라 RCE 취약점에 대해 대응합니다.  
+                                The privileges of the user running the Flask service can be managed, or the commands that can be executed can be restricted, to respond not only to SSTI vulnerabilities but also to RCE vulnerabilities.<p>
+                      
+이처럼 저는 보안적인 문제가 발생했을 때 능동적으로 보안 대책을 수립하여 위험을 감소시킬 수 있습니다.  
+As such, I can proactively establish security measures when security issues arise to reduce risks.<p>
  
- 
-
-
-
 
 
 My Languages & Framework & ETC <br>
@@ -29,6 +37,8 @@ My Languages & Framework & ETC <br>
 
 - <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=black"> <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/Suricata-005571?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/ModSecurity-005571?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"> 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=with-developer&show_icons=true">	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=with-developer&layout=compact">
+ 
 My Activity<br>
 -------------
 1. Dreamhack 2022.11.08 기준 랭크: 59/28223<br>
