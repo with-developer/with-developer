@@ -2,12 +2,21 @@
 
 # 함께 소통하며 성장하는 보안전문가 이준형입니다.<br>
 
-안녕하세요. 웹 해킹 및 취약점 진단 수행에 관심이 많고, 자신있는 대학생 4학년입니다.<p>
-자기소개서에 작성된 취미가 전공과 관련 되어있다면, 보통 믿지 않는다고 들었습니다.<p>
-단순히 취업에 성공하기 위한 거짓말일 확률이 매우 높기 때문입니다.<p>
-그럼에도 불구하고, 제 취미는 "개발"입니다.<p>
-세상에 없던 무언가를 가치있게 창조해내는 과정이 즐겁기 때문입니다.<p>
+안녕하세요. 웹 해킹 및 취약점 진단 수행에 관심이 많고, 자신있는 대학생 4학년입니다.  
+ Hello. I am a fourth-year university student who is interested in web hacking and vulnerability diagnosis, and I am confident in my skills.<p>
+자기소개서에 작성된 취미가 전공과 관련 되어있다면, 보통 믿지 않는다고 들었습니다.  
+ I have heard that if a hobby listed in a self-introduction is related to the major. <p>
+단순히 취업에 성공하기 위한 거짓말일 확률이 매우 높기 때문입니다.  
+ it is usually not believed because there is a high probability of it being a lie just to succeed in getting a job.<p>
+그럼에도 불구하고, 제 취미는 "개발"입니다.  
+ However, my hobby is "development" <p>
+세상에 없던 무언가를 가치있게 창조해내는 과정이 즐겁기 때문입니다.  
+ which I genuinely enjoy because I find the process of creating something valuable that has never existed before to be enjoyable.<p>
 웹 및 서버 개발 활동을 많이 수행해 본 경험을 바탕으로, 웹 해킹 및 취약점 진단에.... 작성중...
+ 
+ 
+
+
 
 
 
@@ -49,11 +58,11 @@ https://dreamhack.io/users/20691
 24. 2022년 취약점 진단 결과 중앙 집중화 데이터베이스 및 웹 페이지 개발
 25. 2022년 ISO 27001 로이드인증원 인증심사원 과정 수료 및 자격 보유
 26. 정보통신산업진흥원 AI데이터분석 과정 수료
-27. 정보통신산업진흥원_SW코딩훈련 과정 수료 <br>
-28. ETC (더 있는데, 정리중입니다.)
-<br>
+27. 정보통신산업진흥원_SW코딩훈련 과정 수료
+28. ETC (더 있는데, 정리중입니다.)<br>
+
 23년 현재 정보보안기사 공부중입니다.<br>
--> 2023년 3월11일 필기 합격, 실기 준비중
+-> 2023년 3월11일 필기 72점 합격, 실기 준비중
 
 대학 성적<br>
 -------------
@@ -62,7 +71,8 @@ https://dreamhack.io/users/20691
 |3.25/4.5|3.63/4.5|3.97/4.5|4.33/4.5|4.39/4.5|4.5/4.5|재학 중
 
 
-가고싶은 기업
+가고싶은 기업<br>
+-------------
 1. 카카오 엔터프라이즈
 2. 네이버
 3. 스틸리언
