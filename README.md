@@ -1,18 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=With+Developer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=With-Developer&fontSize=90" />
 
 # 함께 소통하며 성장하는 보안전문가 이준형입니다.<br>
 
-개발을 하는 이유.
+안녕하세요. 웹 해킹 및 취약점 진단 수행에 관심이 많고, 자신있는 대학생 4학년입니다.<p>
+자기소개서에 작성된 취미가 전공과 관련 되어있다면, 보통 믿지 않는다고 들었습니다.<p>
+단순히 취업에 성공하기 위한 거짓말일 확률이 매우 높기 때문입니다.<p>
+그럼에도 불구하고, 제 취미는 "개발"입니다.<p>
+세상에 없던 무언가를 가치있게 창조해내는 과정이 즐겁기 때문입니다.<p>
+웹 및 서버 개발 활동을 많이 수행해 본 경험을 바탕으로, 웹 해킹 및 취약점 진단에.... 작성중...
 
-- 자신 있는 분야<br>
-모의해킹(Web분야), 풀스택 개발(Web, Mobile)
-- 하고 싶은 분야<br>
-모의해킹·취약점진단(Web, Mobile 분야) 
 
-My Languages & framework & ETC <br>
+
+My Languages & Framework & ETC <br>
 -------------
 
- - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Shell Script-5391FE?style=flat&logo=PowerShell&logoColor=white"> 
+ - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Shell Script-5391FE?style=flat&logo=PowerShell&logoColor=white"> <img src="https://img.shields.io/badge/Solidity공부중-363636?style=flat&logo=Solidity&logoColor=white"> 
  
 - <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=black"> <img src="https://img.shields.io/badge/Django-FDA061?style=flat&logo=Django&logoColor=black"> <img src="https://img.shields.io/badge/Flask-DB3552?style=flat&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=black"> 
 
