@@ -84,9 +84,11 @@ https://dreamhack.io/users/20691
 가고싶은 기업<br>
 -------------
 1. 카카오 엔터프라이즈
-2. 네이버
-3. 스틸리언
-4. 라온 화이트햇
+2. 네이버 클라우드 플랫폼
+3. LG CNS
+4. 롯데정보통신
+5. 스틸리언
+6. 라온 화이트햇
 
 <!--
 **with-developer/with-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
