@@ -44,9 +44,19 @@ My Languages & Framework & ETC <br>
 
 My Status <br>
 -------------
-  <img src="https://github-readme-stats.vercel.app/api?username=with-developer&show_icons=true">	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=with-developer&layout=compact">
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+
+  
+  <img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+</a>
  
-My Activity<br>
+
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=with-developer&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 -------------
 1. Dreamhack 2022.11.08 기준 랭크: 59/28223<br>
 https://dreamhack.io/users/20691
@@ -79,10 +89,11 @@ https://dreamhack.io/users/20691
 28. ETC (더 있는데, 정리중입니다.)<br>
 
 23년 현재 정보보안기사 공부중입니다.<br>
--> 2023년 3월 11일: 필기 72점 합격, 실기 준비중 (1~4월은 정보보안기사에 올인중입니다)<br>
--> 2023년 4월  1일: 네이버 신입 공채 떠서 서류 작성중입니다. 보안기사 실기는 다음회차 합격 목표로 하겠습니다.<br>
+-> 2023년 3월 11일: 필기 74점 합격, 실기 준비중 (1~4월은 정보보안기사에 올인중입니다)<br>
+-> 2023년 4월 01일: 네이버 신입 공채 떠서 서류 작성중입니다. 보안기사 실기는 다음회차 합격 목표로 하겠습니다.<br>
 -> 2023년 4월 13일: 네이버 신입 공채 코딩테스트 및 기업 문화 적합도 검사 대상자 선정<br>
 -> 2023년 4월 15일: 네이버 신입 공채 코딩테스트 및 기업 문화 적합도 검사 응시 완료<br>
+-> 2023년 4월 16일: 중간고사 시험 공부<br>
 
 대학 성적<br>
 -------------
