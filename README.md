@@ -1,30 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=With-Developer&fontSize=90" />
+<img src="https://github.com/with-developer/my_portfolio/blob/main/image/001.png?raw=true" />
 
-# 함께 소통하며 성장하는 보안전문가 이준형입니다.<br>
 
-안녕하세요. 웹 해킹 및 취약점 진단 수행에 관심이 많고, 자신있는 대학생 4학년입니다.  
- Hello. I am a fourth-year university student who is interested in web hacking and vulnerability diagnosis, and I am confident in my skills.<p>
-자기소개서에 작성된 취미가 전공과 관련 되어있다면, 보통 믿지 않는다고 들었습니다.  
- I have heard that if a hobby listed in a self-introduction is related to the major. <p>
-단순히 취업에 성공하기 위한 거짓말일 확률이 매우 높기 때문입니다.  
- it is usually not believed because there is a high probability of it being a lie just to succeed in getting a job.<p>
-그럼에도 불구하고, 제 취미는 "개발"입니다.  
- However, my hobby is "development". <p>
-세상에 없던 무언가를 가치있게 창조해내는 과정이 즐겁기 때문입니다.  
- which I genuinely enjoy because I find the process of creating something valuable that has never existed before to be enjoyable.<p>
-웹 및 서버 개발 활동을 많이 수행해 본 경험을 바탕으로, 웹 해킹 및 취약점 진단에 복합적인 결과 도출을 이끌어 낼 수 있습니다.  
-  Based on my experience performing web and server development activities, I am able to produce comprehensive results in web hacking and vulnerability diagnosis. <p>
-  예를 들어 Flask SSTI 취약점이 발견되었을 때 대응 방안에 대해 설명하겠습니다.  
-   For example, if a Flask SSTI vulnerability is detected, I can explain the response measures as follows:<p>
-  1. Sanitization: 코드에 존재하는 render_template() 함수의 수정을 통해 코드의 안전성 검사를 수행합니다.  
-A security check of the code can be performed by modifying the render_template() function in the code.<p>
-  2. Input Validation: 사용자 입력값에 대해 검증을 수행하는 코드를 추가해야합니다.  
-           Additional code must be added to validate user input.<p>
-  3. Server File Configuration: Flask 서비스를 실행하는 User의 권한을 관리하거나 실행할 수 있는 명령어를 제한하여, SSTI뿐만 아니라 RCE 취약점에 대해 대응합니다.  
-                                The privileges of the user running the Flask service can be managed, or the commands that can be executed can be restricted, to respond not only to SSTI vulnerabilities but also to RCE vulnerabilities.<p>
-                      
-이처럼 저는 보안적인 문제가 발생했을 때 능동적으로 보안 대책을 수립하여 위험을 감소시킬 수 있습니다.  
-As such, I can proactively establish security measures when security issues arise to reduce risks.<p>
+### 포트폴리오 [바로가기](https://github.com/with-developer/my_portfolio)<br>
+### 이력서 [바로가기]()
  
 
 
@@ -96,7 +74,8 @@ https://dreamhack.io/users/20691
 -> 2023년 4월 16일: 중간고사 시험 공부<br>
 -> 2023년 4월 26일: 중간고사 시험 종료<br>
 -> 2023년 5월 09일: 네이버 불합격<br>
--> 2023년 5월 25일: 2023 상반기 정보보호 취업박람회 온라인 서류 제출(롯데정보통신:컨설팅직군, 시큐아이:개발직군)
+-> 2023년 5월 25일: 2023 상반기 정보보호 취업박람회 온라인 서류 제출(롯데정보통신:컨설팅직군)<br>
+-> 2023년 5월 30일: 롯데정보통신 면접<br>
 
 대학 성적<br>
 -------------
