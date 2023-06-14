@@ -2,7 +2,7 @@
 
 
 ### 포트폴리오 [바로가기](https://github.com/with-developer/my_portfolio)<br>
-### 이력서 [바로가기]()
+### 이력서 [바로가기](https://github.com/with-developer/my_resume)
  
 
 
