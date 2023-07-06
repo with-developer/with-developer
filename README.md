@@ -9,8 +9,8 @@
 My Languages & Framework & ETC <br>
 -------------
 ### Languages
- - Main: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- - Sub: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Shell Script-5391FE?style=flat&logo=PowerShell&logoColor=white">
+ - Main: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+ - Sub: <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Shell Script-5391FE?style=flat&logo=PowerShell&logoColor=white">
  
  ### Framework
  - Main: <img src="https://img.shields.io/badge/Flask-DB3552?style=flat&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black">
@@ -34,6 +34,7 @@ My Status <br>
 
 My Activitys
 -------------
+이 부분 공사 준비중...
 1. Dreamhack 2022.11.08 기준 랭크: 59/28223<br>
 https://dreamhack.io/users/20691
 
