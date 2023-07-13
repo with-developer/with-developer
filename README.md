@@ -2,7 +2,12 @@
 
 
 ### 포트폴리오 [바로가기](https://github.com/with-developer/my_portfolio)<br>
-### 이력서 [바로가기](https://github.com/with-developer/my_resume)
+
+About me
+---
+작성중
+
+
  
 
 
@@ -36,7 +41,9 @@ My Status <br>
 
 My Activitys
 -------------
-이 부분 공사 준비중...
+<details><summary>CLICK ME</summary>
+<p>
+
 1. Dreamhack 2022.11.08 기준 랭크: 59/28223<br>
 https://dreamhack.io/users/20691
 
@@ -70,8 +77,14 @@ https://dreamhack.io/users/20691
 30. 2023년 사이버보안학과 Impes 동아리 부회장
 31. 2023 Process 작성중 <br>
 
+</p>
+</details>
+
+
 2023 Process<br>
 ---
+<details><summary>CLICK ME</summary>
+<p>
 -> 2022년 12월 22일: 카카오엔터프라이즈 취약점 진단 인턴 서류 제출<br>
 -> 2023년 01월 02일: 카카오엔터프라이즈 취약점 진단 인턴 서류 불합격<br>
 -> 2023년 03월 11일: 정보보안기사 필기 74점 합격, 실기 준비중<br>
@@ -91,6 +104,9 @@ https://dreamhack.io/users/20691
 -> 2023년 06월 23일: S-개발자 면접 전형<br>
 -> 2023년 06월 26일: S-개발자 최종 합격<br>
 -> 2023년 06월 27일: S-개발자 교육 시작
+ 
+</p>
+</details>
 
 대학 성적<br>
 -------------
