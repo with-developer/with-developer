@@ -104,7 +104,8 @@ https://dreamhack.io/users/20691
 -> 2023년 06월 23일: S-개발자 면접 전형<br>
 -> 2023년 06월 26일: S-개발자 최종 합격<br>
 -> 2023년 06월 27일: S-개발자 교육 시작<br>
--> 2023년 07월 19일: 토스뱅크 Internal Infra Engineer (System) 서류 제출
+-> 2023년 07월 19일: 토스뱅크 Internal Infra Engineer (System) 서류 제출<br>
+-> 2023년 07월 25일: 토스뱅크 Internal Infra Engineer (System) 서류 불합격<br>
  
 </p>
 </details>
