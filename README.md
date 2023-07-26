@@ -106,6 +106,7 @@ https://dreamhack.io/users/20691
 -> 2023년 06월 27일: S-개발자 교육 시작<br>
 -> 2023년 07월 19일: 토스뱅크 Internal Infra Engineer (System) 서류 제출<br>
 -> 2023년 07월 25일: 토스뱅크 Internal Infra Engineer (System) 서류 불합격<br>
+-> 2023년 07월 ??일: 현대오토에버 지원 예정 (보안진단, 차량보안진단, 보안솔루션 구축/운영 직무 중 택1)
  
 </p>
 </details>
