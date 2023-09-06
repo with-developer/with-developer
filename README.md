@@ -107,8 +107,9 @@ https://dreamhack.io/users/20691
 -> 2023년 06월 27일: S-개발자 교육 시작<br>
 -> 2023년 07월 19일: 토스뱅크 Internal Infra Engineer (System) 서류 제출<br>
 -> 2023년 07월 25일: 토스뱅크 Internal Infra Engineer (System) 서류 불합격<br>
--> 2023년 08월: WVMS(Weakness vulnerability Management Solution) 개발
--> 2023년 08월: AI기반 면접 질문 생성기(당면행) 개발
+-> 2023년 08월: WVMS(Weakness vulnerability Management Solution) 개발<br>
+-> 2023년 08월: AI기반 면접 질문 생성기(당면행) 개발<br>
+-> 2023년 09월: KISIA S-개발자 프로젝트 시작<br>
 
 
  
