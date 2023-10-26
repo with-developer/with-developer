@@ -122,14 +122,6 @@ https://dreamhack.io/users/20691
 |3.25/4.5|3.53/4.5|3.97/4.5|4.33/4.5|4.39/4.5|4.5/4.5|4.27/4.5
 
 
-<!-- 가고싶은 기업<br>
--------------
-1. 네이버 클라우드 플랫폼
-2. 카카오 엔터프라이즈
-3. LG CNS
-4. 롯데정보통신
-5. 스틸리언 
-6. 라온 화이트햇  -->
 
 <!--
 **with-developer/with-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
