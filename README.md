@@ -29,7 +29,7 @@ My Languages & Framework & ETC <br>
 My Status <br>
 -------------
 <a href="https://github.com/with-developer/github-stats-transparent">
-  <img src="https://github-readme-stats.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true" width="49.2%" />
 
   
   <img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
