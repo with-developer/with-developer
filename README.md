@@ -8,6 +8,7 @@ About me
 안녕하세요!   
 안정적인 서비스를 운영할 수 있도록 Backend에서 노력하는 이준형입니다.   
 
+2024.01부터 [다른 계정](https://github.com/Eroun-Harry)을 사용중입니다.
    
 
 
