@@ -1,8 +1,5 @@
 <img src="https://github.com/with-developer/my_portfolio/blob/main/image/001.png?raw=true" />
 
-
-### 포트폴리오 [바로가기](https://github.com/with-developer/my_portfolio)<br>
-
 About me
 ---
 안녕하세요!   
