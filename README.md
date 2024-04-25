@@ -25,12 +25,12 @@ My Languages & Framework & ETC <br>
 
 My Status <br>
 -------------
-<a href="https://github.com/with-developer/github-stats-transparent">
-  <img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true" width="49.2%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=with-developer&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
-  <img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</a>
+<div>
+<img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true" width="49.2%" style="height: 13rem;" />
+<img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="48.2%" style="height: 13rem;" />
+</div>
  
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=with-developer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
