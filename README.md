@@ -25,6 +25,7 @@ My Languages & Framework & ETC <br>
 
 My Status <br>
 -------------
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weakness)](https://solved.ac/weakness/)
 [![trophy](https://github-profile-trophy.vercel.app/?username=with-developer&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
