@@ -6,6 +6,7 @@ About me
 안녕하세요!   
 안정적인 서비스를 운영할 수 있도록 Backend에서 노력하는 이준형입니다.   
 
+<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=20691" />
    
 
 
