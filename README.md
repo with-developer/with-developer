@@ -29,8 +29,8 @@ My Status <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=with-developer&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-<img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" width="49.2%" />
-<img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="48.2%" />
+<img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
+<img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" />
 </div>
  
 
