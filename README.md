@@ -30,7 +30,7 @@ My Status <br>
 
 <div>
 <img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
-<img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" />
+<img src="https://raw.githubusercontent.com/with-developer/github-stats-transparent/output/generated/languages.svg" width="90%"/>
 </div>
  
 
