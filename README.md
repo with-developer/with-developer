@@ -1,6 +1,6 @@
 <img src="https://github.com/with-developer/with-developer/blob/main/main.png?raw=true" />
 
-
+<!--
 About me
 ---
 안녕하세요!   
@@ -21,13 +21,13 @@ My Languages & Framework & ETC <br>
 ### ETC
  - Main: <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/Suricata-005571?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/ModSecurity-005571?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-009639?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Open%20AI%20API-5CC624?style=flat&logo=openai&logoColor=black">
  - Sub: <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=black"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/GCP-999999?style=flat&logo=google&logoColor=BLACK"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"> 
-
+-->
 My Status <br>
 -------------
-[![Dreamhack Profile](https://dreamhack-readme-stats.vercel.app/api/stats?username=weakness)](https://github.com/with-developer/dreamhack-readme-stats)
-![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=weakness)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weakness)](https://solved.ac/weakness/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=with-developer&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dreamhack Profile](https://dreamhack-readme-stats.vercel.app/api/stats?username=weakness&theme=dark)](https://github.com/with-developer/dreamhack-readme-stats)
+![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=weakness&theme=dark)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weakness)](https://solved.ac/weakness/)-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=with-developer&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <div>
 <img src="https://github-readme-stats-with-developers-projects.vercel.app/api?username=with-developer&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" width="49.2%" />
@@ -35,16 +35,16 @@ My Status <br>
 </div>
  
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=with-developer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=with-developer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwith-developer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
-
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwith-developer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> -->
+<!--
 대학 성적<br>
 -------------
 |1-1|1-2|2-1|2-2|3-1|3-2|4-1|4-2
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |3.25/4.5|3.53/4.5|3.97/4.5|4.33/4.5|4.39/4.5|4.5/4.5|4.27/4.5|4.0/4.5
-
+-->
 
 
 <!--
